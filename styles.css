@@ -3,7 +3,7 @@
 *{
 	font-family:cursive;
 }
-h1{
+header, footer{
 	text-align:center;
 }
 p{
